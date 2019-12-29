@@ -1,0 +1,14 @@
+{
+  "domain": "atrea",
+  "name": "duplex",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/atrea",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@peter-kulcsar"
+  ]
+}
